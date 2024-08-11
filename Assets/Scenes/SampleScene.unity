@@ -336,7 +336,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1046062163}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: de7466e487d2d4cd0b82d7cfd27f857d, type: 3}
+  m_Script: {fileID: 11500000, guid: 02e8e2112ccda45099e428ff0d506676, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   DebugMode: 1
@@ -369,6 +369,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ecd1a7c8e9b640d892c4ebc035d24c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_audioSources: []
+  canvas: {fileID: 0}
+  captureWidth: 1920
+  captureHeight: 1080
+  renderCamera: {fileID: 0}
+  textMeshPro: {fileID: 0}
+  m_renderTarget: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
