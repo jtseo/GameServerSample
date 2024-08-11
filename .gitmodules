@@ -1,0 +1,3 @@
+[submodule "Assets/VLogger"]
+	path = Assets/VLogger
+	url = https://github.com/jtseo/VLogger.git
